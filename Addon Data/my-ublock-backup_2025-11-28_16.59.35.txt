@@ -1,0 +1,54 @@
+{
+  "timeStamp": 1764329375856,
+  "version": "1.67.0",
+  "userSettings": {
+    "cloudStorageEnabled": true,
+    "uiAccentCustom": true,
+    "uiAccentCustom0": "#1c71d8",
+    "externalLists": "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/annoyance_list.txt",
+    "importedLists": [
+      "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/annoyance_list.txt"
+    ]
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-quick-fixes",
+    "ublock-unbreak",
+    "easylist",
+    "easyprivacy",
+    "urlhaus-1",
+    "plowe-0",
+    "fanboy-cookiemonster",
+    "ublock-cookies-easylist",
+    "fanboy-social",
+    "easylist-chat",
+    "easylist-newsletters",
+    "easylist-notifications",
+    "easylist-annoyances",
+    "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/annoyance_list.txt"
+  ],
+  "hiddenSettings": {},
+  "whitelist": [
+    "10.0.0.20",
+    "bsesdelhi.com",
+    "chrome-extension-scheme",
+    "excitel.com",
+    "github.com",
+    "google.com/maps",
+    "google.com/maps/*",
+    "i0w.xyz",
+    "in.bookmyshow.com",
+    "lichess.org",
+    "moz-extension-scheme",
+    "squidfunk.github.io",
+    "web.whatsapp.com",
+    "wiki.i0w.xyz"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true",
+  "userFilters": "! Jul 7, 2025 https://www.youtube.com\nwww.youtube.com###owner-sub-count\n\n! Jul 19, 2025 https://courses.devopsdirective.com\ncourses.devopsdirective.com##.w-full.aspect-video.relative\n\n! Sep 1, 2025 https://www.ecosia.org\nwww.ecosia.org##.main-header__install-cta\n\n! Sep 26, 2025 https://www.digitalocean.com\nwww.digitalocean.com##.hbPWXq.HeaderStyles__StyledHeader-sc-2183282b-0\nwww.digitalocean.com##.eZHlZM.SidebarLayoutStyles__StyledSidebarLayoutRightSidebar-sc-8e015efd-3\nwww.digitalocean.com###footer\nwww.digitalocean.com###pre-footer\nwww.digitalocean.com##.pOeAi.FooterStyles__StyledSection-sc-19041032-0\n\n! Sep 29, 2025 https://dev.to\ndev.to##.crayons-layout__sidebar-right\ndev.to##.crayons-side-nav\ndev.to##.print-hidden.crayons-footer"
+}
